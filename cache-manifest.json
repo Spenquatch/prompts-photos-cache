@@ -1,6 +1,10 @@
-   {
-     "version": "1.0",
-     "categories": {},
-     "lastUpdated": "",
-     "totalImages": 0
-   }
+{
+  "version": "1.0",
+  "categories": {
+    "minimal": [
+      "https://res.cloudinary.com/djjqayfwq/image/upload/v1756341825/prompts-photos/minimal/minimal-1756341825-qptwo6fcj.jpg"
+    ]
+  },
+  "lastUpdated": "2025-08-28T00:43:46.079Z",
+  "totalImages": 1
+}
