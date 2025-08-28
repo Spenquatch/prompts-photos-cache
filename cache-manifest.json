@@ -1,18 +1,19 @@
 {
   "version": "1.0",
   "categories": {
+    "minimal": [
+      "https://res.cloudinary.com/djjqayfwq/image/upload/v1756341825/prompts-photos/minimal/minimal-1756341825-qptwo6fcj.jpg"
+    ],
     "general": [
+      "https://res.cloudinary.com/djjqayfwq/image/upload/v1756341828/prompts-photos/general/general-1756341827-ezeih03pq.jpg",
+      "https://res.cloudinary.com/djjqayfwq/image/upload/v1756341827/prompts-photos/general/general-1756341826-ksrl2e7x3.jpg",
       "https://res.cloudinary.com/djjqayfwq/image/upload/v1756341826/prompts-photos/general/general-1756341826-yv6vs78vg.jpg",
       "https://res.cloudinary.com/djjqayfwq/image/upload/v1756341825/prompts-photos/general/general-1756341825-0ssoxl7q3.jpg",
       "https://res.cloudinary.com/djjqayfwq/image/upload/v1756341826/prompts-photos/general/general-1756341825-jjlgoamhu.jpg",
-      "https://res.cloudinary.com/djjqayfwq/image/upload/v1756341829/prompts-photos/general/general-1756341829-qqeo56d7v.jpg",
       "https://res.cloudinary.com/djjqayfwq/image/upload/v1756341827/prompts-photos/general/general-1756341828-5jb2a11d9.jpg",
-      "https://res.cloudinary.com/djjqayfwq/image/upload/v1756341827/prompts-photos/general/general-1756341826-ksrl2e7x3.jpg"
-    ],
-    "minimal": [
-      "https://res.cloudinary.com/djjqayfwq/image/upload/v1756341825/prompts-photos/minimal/minimal-1756341825-qptwo6fcj.jpg"
+      "https://res.cloudinary.com/djjqayfwq/image/upload/v1756341829/prompts-photos/general/general-1756341829-qqeo56d7v.jpg"
     ]
   },
-  "lastUpdated": "2025-08-28T00:43:50.518Z",
-  "totalImages": 7
+  "lastUpdated": "2025-08-28T00:43:51.548Z",
+  "totalImages": 8
 }
